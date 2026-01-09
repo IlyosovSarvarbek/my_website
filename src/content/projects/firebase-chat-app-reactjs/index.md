@@ -63,10 +63,6 @@ npm start
 - conversations or messages (senderId, receiverId, text, timestamp)
 - Indexed queries fetch only the two-user conversation for fast reads
 
-### Demo & Source
-- Live demo: https://chatappsarvarbek.netlify.app
-- Repo: https://github.com/IlyosovSarvarbek/chat_app/
-
 ### Contributing
 Small improvements, bug fixes, and UI enhancements welcome. Open an issue or PR.
 
